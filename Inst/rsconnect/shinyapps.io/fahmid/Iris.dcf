@@ -1,0 +1,12 @@
+name: Iris
+title: Iris
+username:
+account: fahmid
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 335979
+bundleId: 1352091
+url: https://fahmid.shinyapps.io/Iris/
+when: 1525286344.40295
+asMultiple: FALSE
+asStatic: FALSE
